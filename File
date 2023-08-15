@@ -1,4 +1,4 @@
-    shared.gloveHits = {
+ print("   shared.gloveHits = {
     
     ["Default"] = game.ReplicatedStorage.b,
     ["Extended"] = game.ReplicatedStorage.b,
@@ -238,4 +238,4 @@ shared.chatPlr = function()
             CoastingUI.Parent.Visible = true
         end
     end)
-end
+end")
